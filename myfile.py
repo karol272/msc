@@ -6,7 +6,7 @@ Created on Wed Oct 18 19:29:17 2023
 """
 
 """myfile2.py"""
-A= 7 +8
+A= 7 +9
 print("A" ,A)
 print("agregar algunas lineas mas")
 print("agregar algunas lineas mas")
