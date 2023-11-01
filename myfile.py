@@ -11,3 +11,6 @@ print("A" ,A)
 print("agregar algunas lineas mas")
 print("agregar algunas lineas mas")
 print("agregar algunas lineas mas")
+B= 5 +2
+print("A" ,A)
+print("agregar algunas lineas mas")
